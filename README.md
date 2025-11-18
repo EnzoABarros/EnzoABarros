@@ -1,6 +1,7 @@
 # 👋 Olá! Eu sou o **Enzo**
 
 💻 Estudante de **Engenharia de Software**
+🎨 Hobbies: Música, Taekwondo, games, idiomas
 
 ---
 
