@@ -1,7 +1,7 @@
 # 👋 Olá! Eu sou o **Enzo**
 
-💻 Estudante de **Engenharia de Software**
-🎨 Hobbies: Música, Taekwondo, games, idiomas
+💻 Estudante de **Engenharia de Software** <br>
+🎨 **Hobbies:** Música, Taekwondo, games, idiomas
 
 ---
 
@@ -20,7 +20,7 @@
 ---
 
 ## 🌎 Contato
-📧 Email: enzozobarros@gmail.com
-💼 LinkedIn: [Link](https://www.linkedin.com/in/enzo-alves-de-barros-ba32a9228/)  
+📧 Email: enzozobarros@gmail.com <br>
+💼 LinkedIn: [Link](https://www.linkedin.com/in/enzo-alves-de-barros-ba32a9228/)
 
 ---
